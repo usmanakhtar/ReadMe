@@ -1,4 +1,4 @@
-# Name of the Conponent
+# Name of the Component
 
 --------------------------
 
@@ -59,7 +59,6 @@ Example:
 ```
 mvn install
 
-@end
 ```
 
 
