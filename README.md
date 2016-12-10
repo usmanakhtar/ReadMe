@@ -6,23 +6,23 @@
 
 
 
-- [0. Introduction](#0-Introduction)
+- [0. Introduction](#0-introduction)
     - [0.1 Core concepts](#01-core-concepts)
    
-- [1. Getting Started](#1-getting Started)
-    - [1.1 Requirements](#1.1-Requirements)
-    - [1.2 Installation](#1.2-Installation)
-    - [1.3 Usage](#1.3-Usage)
+- [1. Getting started](#1-getting-Started)
+    - [1.1 Requirements](#11-requirements)
+    - [1.2 Installation](#12-installation)
+    - [1.3 Usage](#13-usage)
 	
-- [2. Features](#2-Features)
-    - [2.1 Use Bullets](#21-Use Bullets)
+- [2. Features](#2-features)
+    - [2.1 Use bullets](#21-use-bullets)
    
 - [3. Contributing](#3-contributing)
-    - [3.1 Optional](#3.1-optional)
+    - [3.1 Optional](#31-optional)
    
 - [4. Author](#4-author)
 
-- [7. License](#5-license)
+- [5. License](#5-license)
 
 <!-- Main Body of the Document -->
 
