@@ -6,45 +6,45 @@
 
 
 
-- [0. Introduction](#0-introduction)
-    - [0.1 Core concepts](#01-core-concepts)
+- [1. Introduction](#1-introduction)
+    - [1.1 Core concepts](#11-core-concepts)
    
-- [1. Getting started](#1-getting-Started)
-    - [1.1 Requirements](#11-requirements)
-    - [1.2 Installation](#12-installation)
-    - [1.3 Usage](#13-usage)
+- [2. Getting started](#2-getting-Started)
+    - [2.1 Requirements](#21-requirements)
+    - [2.2 Installation](#22-installation)
+    - [2.3 Usage](#23-usage)
 	
-- [2. Features](#2-features)
-    - [2.1 Use bullets](#21-use-bullets)
+- [3. Features](#3-features)
+    - [3.1 Use bullets](#31-use-bullets)
    
-- [3. Contributing](#3-contributing)
-    - [3.1 Optional](#31-optional)
+- [4. Contributing](#4-contributing)
+    - [4.1 Optional](#41-optional)
    
-- [4. Author](#4-author)
+- [5. Author](#5-author)
 
-- [5. License](#5-license)
+- [6. License](#6-license)
 
 <!-- Main Body of the Document -->
 
 
-# 0. Introduction
+# 1. Introduction
 
 Write the abstract overiew of the Component.
 
 
-## 0.2 Core concepts
+## 1.1 Core concepts
 
 Example:
 - Module: Modules are separated by different function, every module can communicate with other one through their own services.
 - Service: Services are the interface of the specifically module.
 
 
-# 1. Getting Started
+# 2. Getting Started
 
 This consist of the following sub-headings. 
 
 
-## 1.1 Requirements
+## 2.1 Requirements
 
 Example:
 - Java versions: Java 1.7 - Note:  Hive versions 1.2 onward require Java 1.7 or newer. Hive versions 0.14 to 1.1 work with Java 1.6 as well. Users are strongly advised to start moving to Java 1.8).  
@@ -52,7 +52,7 @@ Example:
 
 
 
-## 1.2 Installation
+## 2.2 Installation
 
 Write the installation Steps:
 Example: 
@@ -63,11 +63,11 @@ mvn install
 ```
 
 
-## 1.3 Usage
+## 2.3 Usage
 
 Write in your own way how can the others use your module after installation. You can mention the JDBC setting code etc.... 
 
-# 2. Features
+# 3. Features
 
 Write the main features 
 
@@ -75,18 +75,18 @@ Example:
 - Feature 1:
 - Feature 1:
 
-# 3. Contributing
+# 4. Contributing
 
 Optional but if you want, then which part of the code can be modified and added more features? 
 
 
-# 4. Author
+# 5. Author
 
 -  Name
 -  email
 
 
-# 5. License
+# 6. License
 
 The code is licensed under the [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 <br>
