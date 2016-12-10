@@ -9,20 +9,20 @@
 - [0. Introduction](#0-Introduction)
     - [0.1 Core concepts](#01-core-concepts)
    
-- [1. Getting Started](#1-Getting Started)
-    - [1.1 Requirements](#11-Requirements)
-    - [1.2 Installation](#12-Installation)
-    - [1.3 Usage](#13-Usage)
+- [1. Getting Started](#1-getting Started)
+    - [1.1 Requirements](#1.1-Requirements)
+    - [1.2 Installation](#1.2-Installation)
+    - [1.3 Usage](#1.3-Usage)
 	
 - [2. Features](#2-Features)
     - [2.1 Use Bullets](#21-Use Bullets)
    
-- [3. Contributing](#3-Contributing)
-    - [3.1 Optional](#31-Optional)
+- [3. Contributing](#3-contributing)
+    - [3.1 Optional](#3.1-optional)
    
 - [4. Author](#4-author)
 
-- [7. License](#7-license)
+- [7. License](#5-license)
 
 <!-- Main Body of the Document -->
 
@@ -86,7 +86,7 @@ Optional but if you want, then which part of the code can be modified and added 
 -  email
 
 
-# 7. License
+# 5. License
 
 The code is licensed under the [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 <br>
